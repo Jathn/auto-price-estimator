@@ -30,3 +30,9 @@ Because of the simplicity of the gradio library I also managed to create a worki
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/124161756/232327218-0eb074d7-3ff4-4d27-8d67-f81ef3f62ab6.png">
 
 Quite simple, yet took almost no time to implement.
+
+## Trying out the model:
+
+The pipeline is not uploaded here, since it is large in size (about 1.29 GB)
+It is however available as a file at https://huggingface.co/Jathn/CarPriceX in the "files" section named "app_pipeline.pkl". From there you can download it and with
+the "APPA.py" file in the same directory you should be able to run the app. Also check out requirements.txt.
