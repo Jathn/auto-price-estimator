@@ -36,3 +36,5 @@ Quite simple, yet took almost no time to implement.
 The pipeline is not uploaded here, since it is large in size (about 1.29 GB)
 It is however available as a file at https://huggingface.co/Jathn/CarPriceX in the "files" section named "app_pipeline.pkl". From there you can download it and with
 the "APPA.py" file in the same directory you should be able to run the app. Also check out requirements.txt.
+
+Original dataset: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
