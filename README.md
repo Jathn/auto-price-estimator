@@ -26,5 +26,7 @@ A working pipeline which can predict the prices of used cars in the range $5000-
 be priced higher than this. That is because the cars in it's training data were all within this range.
 
 Because of the simplicity of the gradio library I also managed to create a working front-end for the application.
+
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/124161756/232327218-0eb074d7-3ff4-4d27-8d67-f81ef3f62ab6.png">
+
 Quite simple, yet took almost no time to implement.
