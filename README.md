@@ -17,7 +17,7 @@ So the project is mainly divided into 4 parts after finding an appropriate datas
 3. Proceeding with the chosen model to create a pipeline which implements the ML-workflow implemented in steps 1 & 2.
 4. Creating a simple front-end app to display the model's capabilities.
 
-The 3 first steps where all done in their own Jupyter Notebook. Inside the notebooks their is detailed information about the different measures taken.
+The 3 first steps where all done in their own Jupyter Notebook. There is more detailed information inside them.
 The app-implementation can be found in APPA.py.
 
 ## End result
